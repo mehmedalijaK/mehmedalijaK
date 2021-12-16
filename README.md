@@ -6,8 +6,6 @@
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 👯 I’m looking to collaborate on Web Dev projects
 
-<h2 align="center">🛠️ Languages & Frameworks</h2>
-
 <!--
 **mehmedalijaK/mehmedalijaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
