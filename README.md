@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![C#](https://img.shields.io/badge/csharp%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
+<h2 align="center"> How to reach me </h2>
+
+[<img src="https://img.shields.io/badge/Linkedin-remcohalman-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/mehmedalija-kari%C5%A1ik-8135061a2)
+
+
 ___
 ### 📈 **Github Stats**
 ___
