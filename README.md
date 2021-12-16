@@ -1,6 +1,12 @@
 <img align="center" src="https://raw.githubusercontent.com/mehmedalijaK/mehmedalijaK/main/image/header_image.png" />
 
-### Hi there 👋
+<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
+
+- Studying 
+- I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
+- 👯 I’m looking to collaborate on Web Dev projects
+
+<h2 align="center">🛠️ Languages & Frameworks</h2>
 
 <!--
 **mehmedalijaK/mehmedalijaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
