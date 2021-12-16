@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/mehmedalijaK/mehmedalijaK/main/image/header_image.png" />
+
 ### Hi there 👋
 
 <!--
