@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![C#](https://img.shields.io/badge/csharp%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
+___
 ### 📈 **Github Stats**
+___
 
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmedalijaK&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true%22"/>
