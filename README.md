@@ -5,21 +5,6 @@
 - Studying 
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 
-<!--
-**mehmedalijaK/mehmedalijaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +13,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![C#](https://img.shields.io/badge/csharp%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <h2 align="center"> How to reach me </h2>
 
