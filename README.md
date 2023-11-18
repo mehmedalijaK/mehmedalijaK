@@ -2,7 +2,7 @@
 
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
-- Studying 
+- Studying Computer Science
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
